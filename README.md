@@ -97,34 +97,6 @@ Key findings:
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── python/
-│   ├── centroid_tracking.py
-│   └── dataset_generation.py
-│
-├── matlab/
-│   ├── turbulence_analysis.m
-│   ├── comparison_analysis.m
-│   └── lucky_imaging_estimation.m
-│
-├── datasets/
-│   └── *.txt
-│
-├── figures/
-│   ├── figure1.png
-│   ├── figure2.png
-│   ├── figure3.png
-│   └── figure4.png
-│
-└── report/
-    └── ENGR_120_Project_Final.pdf
-```
-
----
-
 ## Technologies Used
 - Python
 - OpenCV
