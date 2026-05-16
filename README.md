@@ -58,6 +58,10 @@ The project analyzes telescope recordings of the Moon captured under different i
 
 ---
 
+## Data Availability
+
+Raw telescope video files are not included due to GitHub file size limits. The processed centroid displacement datasets used for analysis are included in the `datasets/` directory.
+
 ## Statistical Methods
 The detrended centroid displacement signal is treated as a stochastic process.
 
